@@ -5,20 +5,17 @@ A real-time **computer vision-based fitness tracker** that uses **MediaPipe Pose
 The system tracks both arms independently and provides real-time information about the number of repetitions, current movement stage, and elbow angle.
 
 ---
-
 ## 🎥 Project Demo
 
 <p align="center">
-  <a href="(https://drive.google.com/file/d/1WWdr5MhFv4NbTVFKwOnkh4TqIh7vRwfz/view?usp=drive_link)">
-    <img src="assets/demo-thumbnail.png" width="800">
+  <a href="https://drive.google.com/file/d/1WWdr5MhFv4NbTVFKwOnkh4TqIh7vRwfz/view?usp=drive_link">
+    <img src="assets/demo.png" width="800">
   </a>
 </p>
 
 <p align="center">
-  🎥 <b><a href="(https://drive.google.com/file/d/1WWdr5MhFv4NbTVFKwOnkh4TqIh7vRwfz/view?usp=drive_link)">Watch the Full Video Demo</a></b>
+  🎥 <b><a href="https://drive.google.com/file/d/1WWdr5MhFv4NbTVFKwOnkh4TqIh7vRwfz/view?usp=drive_link">Watch the Full Video Demo</a></b>
 </p>
-
-🎥 **[Watch the Project Demo on Google Drive](https://drive.google.com/file/d/1WWdr5MhFv4NbTVFKwOnkh4TqIh7vRwfz/view?usp=drive_link)**
 
 ## 🚀 Features
 
