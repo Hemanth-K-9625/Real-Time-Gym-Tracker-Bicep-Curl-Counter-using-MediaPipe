@@ -6,6 +6,10 @@ The system tracks both arms independently and provides real-time information abo
 
 ---
 
+## 🎥 Demo
+
+[![Bicep Curl Tracker Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/1WWdr5MhFv4NbTVFKwOnkh4TqIh7vRwfz/view?usp=drive_link))
+
 ## 🚀 Features
 
 * 🧍 Real-time human pose estimation
