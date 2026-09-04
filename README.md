@@ -6,9 +6,17 @@ The system tracks both arms independently and provides real-time information abo
 
 ---
 
-## 🎥 Demo
+## 🎥 Project Demo
 
-[![Bicep Curl Tracker Demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg](https://drive.google.com/file/d/1WWdr5MhFv4NbTVFKwOnkh4TqIh7vRwfz/view?usp=drive_link))]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/1WWdr5MhFv4NbTVFKwOnkh4TqIh7vRwfz/view?usp=drive_link))
+<p align="center">
+  <a href="YOUR_GOOGLE_DRIVE_LINK">
+    <img src="assets/demo-thumbnail.png" width="800">
+  </a>
+</p>
+
+<p align="center">
+  🎥 <b><a href="[YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1WWdr5MhFv4NbTVFKwOnkh4TqIh7vRwfz/view?usp=drive_link)">Watch the Full Video Demo</a></b>
+</p>
 
 ## 🚀 Features
 
