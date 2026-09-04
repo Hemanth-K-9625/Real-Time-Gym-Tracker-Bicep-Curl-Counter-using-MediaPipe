@@ -8,7 +8,7 @@ The system tracks both arms independently and provides real-time information abo
 
 ## 🎥 Project Demo
 
-🎥 **[Watch the Project Demo on Google Drive]([YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1WWdr5MhFv4NbTVFKwOnkh4TqIh7vRwfz/view?usp=drive_link))**
+🎥 **[Watch the Project Demo on Google Drive](https://drive.google.com/file/d/1WWdr5MhFv4NbTVFKwOnkh4TqIh7vRwfz/view?usp=drive_link)**
 
 ## 🚀 Features
 
